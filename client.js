@@ -1,4 +1,3 @@
-'use strict';
 
 // implicit return with fat arrow functions - es6
 
